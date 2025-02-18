@@ -1,4 +1,4 @@
-# task3codesoft
-first task of level 3 
+# Task3codesoft
+Third task of level 1
 <br>
 Simple Calculator
